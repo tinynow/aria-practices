@@ -39,6 +39,7 @@
     "@babel/eslint-parser": "^7.17.0",
     "ava": "^4.0.1",
     "cheerio": "^1.0.0-rc.10",
+    "cross-spawn": "^7.0.3",
     "cspell": "^5.18.5",
     "eslint": "^8.10.0",
     "eslint-config-prettier": "^8.4.0",
@@ -79,7 +80,6 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.12.0",
-    "cross-spawn": "^7.0.3",
     "dotenv": "^16.0.0",
     "node-html-parser": "^5.2.0"
   }
